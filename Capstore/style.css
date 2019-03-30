@@ -1,0 +1,10 @@
+.login-form{
+  border: 1px solid #ced4da;
+
+  padding: 20px;
+  margin-top: 10px;
+}
+
+form label{
+  font-size: 17px
+}
